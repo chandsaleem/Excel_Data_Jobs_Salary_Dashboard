@@ -9,7 +9,8 @@ By selecting a job title (e.g., Data Engineer, Data Analyst, Data Scientist), th
 
 This enables job seekers, analysts, and career planners to identify which skills are most rewarding and where to focus their learning efforts.
 
----
+![Salary Dashboard](./avg_sal_skill.gif)
+
 
 ## ⭐ Project Purpose
 
